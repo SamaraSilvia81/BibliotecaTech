@@ -1,5 +1,8 @@
 ![capa-github-bibliotecatech](https://github.com/user-attachments/assets/a91b199c-f6d9-4007-a596-84a26c449e88)
-## Este repositório tem como objetivo conter um acervo de livros gratuitos e legais sobre tecnologia e programação sobretudo frontend
+
+# Acerco Literário de Desenvolvimento Frontend
+![Badge em andamento](http://img.shields.io/static/v1?label=STATUS&message=EM%20ANDAMENTO&color=23232e&style=for-the-badge)
+> Este repositório tem como objetivo conter um acervo de livros gratuitos e legais sobre tecnologia e programação sobretudo frontend
 
 <h2 align="center"> Sumário </h2>
 
