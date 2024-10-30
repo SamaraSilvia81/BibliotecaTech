@@ -1,6 +1,6 @@
 ![Capa Github Biblioteca Tech](https://github.com/user-attachments/assets/567db0b9-3fee-4e3a-a713-562a6647c39f)
 
-# Acerco Literário de Desenvolvimento Frontend
+# Acervo Literário de Desenvolvimento Frontend
 ![Badge em andamento](http://img.shields.io/static/v1?label=STATUS&message=EM%20ANDAMENTO&color=23232e&style=for-the-badge)
 > Este repositório tem como objetivo conter um acervo de livros gratuitos e legais sobre tecnologia e programação sobretudo frontend
 
