@@ -20,7 +20,7 @@
 
 | LIVRO | NOME | AUTOR |  STATUS | IDIOMA |
 | - | - | - | - | - |
-| ![capa-do-livro](https://github.com/user-attachments/assets/f3dd7c86-fe62-4296-a9ae-d181d3949470) | [Lógica de Programação e Algoritmos com JavaScript](https://github.com/SamaraSilvia81/BibliotecaTech/blob/main/LivrosTech/Algoritmo%20e%20Logica/Lógica%20de%20Programação%20e%20Algorítmos%20com%20JavaScript%20(Edécio%20Fernando%20Iepsen).pdf)) |  Edécio Fernando Iepsen | ![STATUS](https://user-images.githubusercontent.com/98864503/232176474-b32dd53d-caeb-4053-9189-d8d07171d5d7.png) | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
+| ![capa-do-livro](https://github.com/user-attachments/assets/f3dd7c86-fe62-4296-a9ae-d181d3949470) | [Lógica de Programação e Algoritmos com JavaScript](https://github.com/SamaraSilvia81/BibliotecaTech/blob/main/LivrosTech/Algoritmo%20e%20Logica/Lógica%20de%20Programação%20e%20Algorítmos%20com%20JavaScript%20(Edécio%20Fernando%20Iepsen).pdf) |  Edécio Fernando Iepsen | ![STATUS](https://user-images.githubusercontent.com/98864503/232176474-b32dd53d-caeb-4053-9189-d8d07171d5d7.png) | ![IDIOMA](https://user-images.githubusercontent.com/98864503/232176253-313aac7b-b0c8-49f3-b234-10eeba6a2077.png) |
 
 ### LEGENDA
 
