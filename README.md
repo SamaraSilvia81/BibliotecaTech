@@ -1,4 +1,4 @@
-![capa-github-bibliotecatech](https://github.com/user-attachments/assets/a91b199c-f6d9-4007-a596-84a26c449e88)
+![Capa Github Biblioteca Tech](https://github.com/user-attachments/assets/567db0b9-3fee-4e3a-a713-562a6647c39f)
 
 # Acerco Literário de Desenvolvimento Frontend
 ![Badge em andamento](http://img.shields.io/static/v1?label=STATUS&message=EM%20ANDAMENTO&color=23232e&style=for-the-badge)
