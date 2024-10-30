@@ -1,5 +1,4 @@
-
-# BibliotecaTech
+![capa-github-bibliotecatech](https://github.com/user-attachments/assets/ae20e7d1-865c-4abd-a2e2-75b33cac8499)
 > Este repositório tem como objetivo conter um acervo de livros gratuitos e legais sobre tecnologia e programação sobretudo frontend
 
 <h2 align="center"> Sumário </h2>
